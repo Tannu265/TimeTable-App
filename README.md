@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📅 Timetable Management System — Full Stack
 
 A modern, full-stack school timetable management system built with **React** (frontend) and **Flask + SQLAlchemy** (backend), upgraded from the original Python/Tkinter desktop app.
@@ -222,3 +223,6 @@ npm run build
 cd backend
 python run.py
 ```
+=======
+# TimeTable-App
+>>>>>>> 0bfcdc017d9c7565bdc306fc96d4b9318d05cd4b
